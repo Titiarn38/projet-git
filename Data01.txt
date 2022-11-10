@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 je 
 suis désormais
 a la fin de l'exercice
 et a la fin
 de la journee
+=======
+exercice
+bientot
+fini
+>>>>>>> 4e80b26bff0433c356873629870b37ee8671ed17
